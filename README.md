@@ -1,3 +1,4 @@
+置顶。
 # spring-cloud-config-admin（简称：SCCA）
 
 [![Build Status](https://travis-ci.org/dyc87112/spring-cloud-config-admin.svg?branch=1.2.x)](https://travis-ci.org/dyc87112/spring-cloud-config-admin)
